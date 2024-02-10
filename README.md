@@ -10,4 +10,4 @@ You may need to unblock this file before you can run it. In a PowerShell, naviga
 
 Please use the online help for information on running this script. In a PowerShell, navigate to the directory containing this script and execute:
 
-`PS> Get-Help ozo-sc-fresh-start.ps1 -Detailed`
+`PS> Get-Help .\ozo-sc-fresh-start.ps1 -Detailed`

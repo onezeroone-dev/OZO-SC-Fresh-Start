@@ -1,5 +1,5 @@
 <#PSScriptInfo
-    .VERSION 1.0
+    .VERSION 1.0.1
     .GUID b51c39e8-469a-4881-bbf7-c60081ccc8aa
     .AUTHOR Andrew Lievertz <alievertz@onezeroone.dev>
     .COMPANYNAME One Zero One
