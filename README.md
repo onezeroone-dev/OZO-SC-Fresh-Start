@@ -1,4 +1,4 @@
-# OZO PowerShell Script Template
+# OZO SC Fresh Start
 ## Description
 Wipes the Star Citizen _USER_ and _shaders_ folders before invoking the launcher, while preserving and restoring any custom characters and controls mapping files.
 
