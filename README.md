@@ -1,6 +1,6 @@
 # OZO PowerShell Script Template
 ## Description
-Wipes the Star Citizen _USER_ and _shaders_ folders before invoking the launcher, while preserving and restoring any user preferences and custom controls mapping files.
+Wipes the Star Citizen _USER_ and _shaders_ folders before invoking the launcher, while preserving and restoring any character and custom controls mapping files.
 
 ## Installation
 This script is published to [PowerShell Gallery](https://learn.microsoft.com/en-us/powershell/scripting/gallery/overview?view=powershell-5.1). Ensure your system is configured for this repository then execute the following in an _Administrator_ PowerShell:
